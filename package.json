@@ -1,6 +1,6 @@
 {
   "name": "web3-plugin-template",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Template plugin to extend web3.js with additional methods",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
